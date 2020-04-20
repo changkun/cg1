@@ -1,0 +1,8 @@
+{
+  "name": "cg1-1-math",
+  "scripts": {
+    "test": "node mat_test.js"
+  },
+  "author": "LMU Munich MIMUC CG1 Team",
+  "license": "GNU GPLv3"
+}
