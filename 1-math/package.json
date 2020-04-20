@@ -1,0 +1,10 @@
+{
+  "name": "cg1-1-math",
+  "description": "LMU Munich CG1 SS20",
+  "scripts": {
+    "test": "node mat_test.js"
+  },
+  "repository": "mimuc/cg1-ss20",
+  "author": "LMU Munich MIMUC CG1 Team",
+  "license": "GPL-3.0+"
+}
