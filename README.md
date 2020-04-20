@@ -12,13 +12,13 @@ The following lists tools used by the tutorials.
 
 ## Notice
 
-Do **_not_** open source your solution (referring to the cheating policy). Instead, submit your solusion via [Uni2Work]([https://](https://uni2work.ifi.lmu.de/)).
+Do **_not_** open source your solution (referring to the cheating policy). Instead, submit your solusion via [Uni2Work](https://uni2work.ifi.lmu.de/).
 
 ## Sessions
 
-| Assignments | Topics |
+| Assignments | Tasks |
 |:-----|:---:|
-| Assignment 1| [Survival Mathematics](./1-math/)
+| Assignment 1| [Survival Mathematics, Task 5](./1-math/)
 
 <!-- | Assignment 1| [Survival Mathematics](./1-math/)
 | Assignment 1| [Survival Mathematics](./1-math/)
