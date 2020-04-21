@@ -12,7 +12,8 @@ The following lists tools used by the tutorials.
 
 ## Notice
 
-Do **_not_** open source your solution (referring to the cheating policy). Instead, submit your solusion via [Uni2Work](https://uni2work.ifi.lmu.de/).
+- Do **_not_** open source your solution (referring to the cheating policy). Instead, submit your solusion via [Uni2Work](https://uni2work.ifi.lmu.de/);
+- It is welcome to send a pull request if you found the code skeleton can be improved.
 
 ## Sessions
 
