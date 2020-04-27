@@ -20,15 +20,7 @@ The following lists tools used by the tutorials.
 | Assignments | Tasks |
 |:-----|:---:|
 | Assignment 1| [Survival Mathematics, Task 5](./1-math/)
-
-<!-- | Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/) -->
+| Assignment 2| [Transformations, Task 4](./2-transform/)
 
 ## License
 
