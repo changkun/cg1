@@ -2,9 +2,12 @@
   "name": "cg1-1-math",
   "description": "LMU Munich CG1 SS20",
   "scripts": {
-    "test": "node mat_test.js"
+    "test": "jest"
   },
   "repository": "mimuc/cg1-ss20",
   "author": "LMU Munich MIMUC CG1 Team",
-  "license": "GPL-3.0+"
+  "license": "GPL-3.0+",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
 }
