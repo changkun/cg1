@@ -22,15 +22,6 @@ The following lists tools used by the tutorials.
 | Assignment 1| [Survival Mathematics, Task 5](./1-math/)
 | Assignment 2| [Transformations, Task 4](./2-transform/)
 
-<!-- | Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/)
-| Assignment 1| [Survival Mathematics](./1-math/) -->
-
 ## License
 
 GNU GPLv3 &copy; mimuc.de

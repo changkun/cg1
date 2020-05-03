@@ -54,7 +54,7 @@ class Vector3 {
    * @param {Vector3} w is a 3 dimensional vector
    */
   angle(w) {
-    // TODO: Implement angule of this and w: ∠(this, w)
+    // TODO: Implement angle of this and w: ∠(this, w)
     return 0
   }
 }

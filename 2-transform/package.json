@@ -3,7 +3,7 @@
   "main": "src/main.js",
   "description": "LMU Munich CG1 SS20",
   "scripts": {
-    "start": "webpack-dev-server --host 0.0.0.0 --open",
+    "start": "webpack-dev-server --host localhost --open",
     "build": "webpack --env.prod"
   },
   "repository": "mimuc/cg1-ss20",
