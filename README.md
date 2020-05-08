@@ -21,7 +21,7 @@ The following lists tools used by the tutorials.
 |:-----|:---|
 | Assignment 1| [Survival Mathematics, Task 5](./1-math/)
 | Assignment 2| [Transformations, Task 4](./2-transform/)
-| Assignment 3| [Geometry, Task 1](./3-geometry/terrian)
+| Assignment 3| [Geometry, Task 1](./3-geometry/terrain)
 | Assignment 3| [Geometry, Task 2](./3-geometry/bezier)
 | Assignment 3| [Geometry, Task 3](./3-geometry/bunny)
 
