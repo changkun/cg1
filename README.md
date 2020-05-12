@@ -24,6 +24,7 @@ The following lists tools used by the tutorials.
 | Assignment 3| [Geometry, Task 1](./3-geometry/terrain)
 | Assignment 3| [Geometry, Task 2](./3-geometry/bezier)
 | Assignment 3| [Geometry, Task 3](./3-geometry/bunny)
+| Assignment 4| [Camera, Task 4](./4-camera)
 
 ## License
 
