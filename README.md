@@ -8,7 +8,7 @@ For more details, see the course website: [mimuc.de/cg1](http://mimuc.de/cg1).
 
 ## Tools
 
-The following lists tools used by the tutorials.
+The following lists tools are used in the tutorials.
 
 - [Node.js](https://nodejs.org/)
 - [three.js](https://threejs.org/)
@@ -27,6 +27,8 @@ The following lists tools used by the tutorials.
 | Assignment 3: Task 2| [Bézier Curve Interpolation](./3-geometry/bezier) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/bezier/index.html)|
 | Assignment 3: Task 3| [Mesh Sampling](./3-geometry/bunny)| [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/bunny/index.html)|
 | Assignment 4: Task 4| [Hitchcock Zoom](./4-camera)| [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/4-camera/hitchcock/index.html)|
+| Assignment 5: Task 1| [Rasterization](./5-raster/bresenham)| [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/5-raster/bresenham/index.html)
+| Assignment 5: Task 2| [GLSL](./5-raster/shader)| [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/5-raster/shader/index.html)
 
 ## Non-coding Tasks
 
