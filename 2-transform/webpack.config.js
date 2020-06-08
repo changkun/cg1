@@ -13,7 +13,7 @@ module.exports = env => {
         {from: 'src/assets', to: 'assets'}
       ]),
       new HtmlWebpackPlugin({
-        title: dist ? 'Production' : 'Development',
+        title: 'LMU Munich CG1 SS2020',
         meta: {
           viewport: 'width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1.0, user-scalable=no'
         }

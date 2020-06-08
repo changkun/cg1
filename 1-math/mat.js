@@ -16,6 +16,12 @@ class Vector3 {
    */
   sum(w) {
     // TODO: Implement vector sum: this + w
+
+
+
+
+
+
     return this
   }
   /**
@@ -24,6 +30,11 @@ class Vector3 {
    */
   multiply(scalar) {
     // TODO: Implement vector scalar multiplication: scalar*this
+
+
+
+
+
     return this
   }
   /**
@@ -32,6 +43,12 @@ class Vector3 {
    */
   dot(w) {
     // TODO: Implement vector dot product: this · w
+
+
+
+
+
+
     return 0
   }
   /**
@@ -39,6 +56,12 @@ class Vector3 {
    */
   norm() {
     // TODO: Implement vector norm: || this ||
+
+
+
+
+
+
     return Math.sqrt(this.dot(this))
   }
   /**
@@ -47,6 +70,12 @@ class Vector3 {
    */
   cross(w) {
     // TODO: Implement vector cross product: this × w
+
+
+
+
+
+
     return this
   }
   /**
@@ -55,6 +84,11 @@ class Vector3 {
    */
   angle(w) {
     // TODO: Implement angle of this and w: ∠(this, w)
+
+
+
+
+
     return 0
   }
 }
@@ -77,6 +111,16 @@ class Matrix {
    */
   multiply(mat) {
     // TODO: Implement matrix multiplication
+
+
+
+
+
+
+
+
+
+
     return this
   }
   det() {
@@ -87,6 +131,17 @@ class Matrix {
       throw "matrix is too big"
     }
     // TODO: Implement determinant for 2x2, 3x3 matrix
+
+
+
+
+
+
+
+
+
+
+
     return 0
   }
 }
