@@ -19,18 +19,18 @@ The following lists tools are used in the tutorials.
 
 ## Code Skeletons
 
-| Tasks | Topic | Picture | Live Demo |
-|:-----|:---|:---|----|
-| Assignment 1: Task 5| [Getting started with JavaScript](./1-math/) |  | - |
-| Assignment 2: Task 4| [Building A Scene using `three.js`](./2-transform/) | ![](./assets/2-transform.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/2-transform/index.html)|
-| Assignment 3: Task 1| [Geometric Representation](./3-geometry/terrain) | ![](./assets/3-geometry-perlin.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/terrain/index.html)|
-| Assignment 3: Task 2| [Bézier Curve Interpolation](./3-geometry/bezier) | ![](./assets/3-geometry-bezier.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/bezier/index.html)|
-| Assignment 3: Task 3| [Mesh Sampling](./3-geometry/bunny)| ![](./assets/3-geometry-bunny.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/bunny/index.html)|
-| Assignment 4: Task 4| [Hitchcock Zoom](./4-camera)| ![](./assets/4-camera-zoom.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/4-camera/hitchcock/index.html)|
-| Assignment 5: Task 1| [Rasterization](./5-raster/bresenham)| ![](./assets/5-raster-drawing.png) |[Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/5-raster/bresenham/index.html)|
-| Assignment 5: Task 2| [Getting started with GLSL](./5-raster/shader) | ![](./assets/5-raster-shader.png)        |[Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/5-raster/shader/index.html)|
-| Assignment 6: Task 1 | [Texturing](./6-material/earth) | ![](./assets/6-material-earth.png)       |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/6-material/earth/)|
-| Assignment 6: Task 2 | [Shading and Shadowing](./6-material/blinn-phong) | ![](./assets/6-material-blinn-phong.png) |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/6-material/blinn-phong/)|
+| Task | Picture | Live Demo |
+|:-----|:---|----|
+| Assignment 1: Task 5 [Getting started with JavaScript](./1-math/) | - | - |
+| Assignment 2: Task 4 [Building A Scene using `three.js`](./2-transform/) | ![](./assets/2-transform.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/2-transform/index.html)|
+| Assignment 3: Task 1 [Geometric Representation](./3-geometry/terrain) | ![](./assets/3-geometry-perlin.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/terrain/index.html)|
+| Assignment 3: Task 2 [Bézier Curve Interpolation](./3-geometry/bezier) | ![](./assets/3-geometry-bezier.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/bezier/index.html)|
+| Assignment 3: Task 3 [Mesh Sampling](./3-geometry/bunny)| ![](./assets/3-geometry-bunny.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/3-geometry/bunny/index.html)|
+| Assignment 4: Task 4 [Hitchcock Zoom](./4-camera)| ![](./assets/4-camera-zoom.png) | [Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/4-camera/hitchcock/index.html)|
+| Assignment 5: Task 1 [Rasterization](./5-raster/bresenham)| ![](./assets/5-raster-drawing.png) |[Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/5-raster/bresenham/index.html)|
+| Assignment 5: Task 2 [Getting started with GLSL](./5-raster/shader) | ![](./assets/5-raster-shader.png)        |[Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/5-raster/shader/index.html)|
+| Assignment 6: Task 1 [Texturing](./6-material/earth) | ![](./assets/6-material-earth.png)       |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/6-material/earth/)|
+| Assignment 6: Task 2 [Shading and Shadowing](./6-material/blinn-phong) | ![](./assets/6-material-blinn-phong.png) |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/6-material/blinn-phong/)|
 
 ## Non-coding Tasks
 
