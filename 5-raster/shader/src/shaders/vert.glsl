@@ -8,7 +8,7 @@ precision highp float;
 
 void main()
 {
-    // TODO: scale y position by 1.5
+    // TODO: scale x by 1.5, y by 0.5, and z by 2.0
     gl_Position = projectionMatrix * modelViewMatrix * vec4(
         position.x,
         position.y,
