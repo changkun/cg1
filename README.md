@@ -31,6 +31,8 @@ The following lists tools are used in the tutorials.
 | Assignment 5: Task 2 [Getting started with GLSL](./5-raster/shader) | ![](./assets/5-raster-shader.png)        |[Link](http://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/5-raster/shader/index.html)|
 | Assignment 6: Task 1 [Texturing](./6-material/earth) | ![](./assets/6-material-earth.png)       |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/6-material/earth/)|
 | Assignment 6: Task 2 [Shading and Shadowing](./6-material/blinn-phong) | ![](./assets/6-material-blinn-phong.png) |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/6-material/blinn-phong/)|
+| Assignment 7: Task 1: [Whitted-style Ray Tracing](./7-illumination/whitted/) | ![](./assets/7-illumination-whitted.png) |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/7-illumination/whitted/)|
+| Assignment 7: Task 2: [Monte Carlo Ray Tracing (aka Path Tracing)](./7-illumination/path-tracer/) | ![](./assets/7-illumination-pathtracer.png) |[Link](https://www.medien.ifi.lmu.de/lehre/ss20/cg1/demo/7-illumination/pathtracer/)|
 
 ## Non-coding Tasks
 
