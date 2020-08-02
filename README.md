@@ -6,6 +6,8 @@
 This repository contains code skeletons for coding assignments. 
 For more details, see the course website: [mimuc.de/cg1](http://mimuc.de/cg1).
 
+**Notice：This repository is out of maintenance becuase of the termination of the semester. Any further enquiry can be answered via email to: changkun.ou at ifi.lmu.de**
+
 ## Tools
 
 The following lists tools are used in the tutorials.
