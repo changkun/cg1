@@ -3,7 +3,7 @@
 
 # Computer Graphics - Summer Semester 2020
 
-This repository contains code skeletons for coding assignments. 
+This repository contains code skeletons for coding assignments.
 For more details, see the course website: [mimuc.de/cg1](http://mimuc.de/cg1).
 
 ## Tools
@@ -36,9 +36,9 @@ The following lists tools are used in the tutorials.
 
 ## Non-coding Tasks
 
-We use Markdown format for non-coding task submissions. Markdown is 
-a simple mark-up language that can be learned within a minute. 
-A recommended the Markdown GUI parser is typora (see [tools](#tools) in above), 
+We use Markdown format for non-coding task submissions. Markdown is
+a simple mark-up language that can be learned within a minute.
+A recommended the Markdown GUI parser is typora (see [tools](#tools) in above),
 it supports parsing embedded LaTeX formula in a Markdown file, which is
 a lightweight approach for formula extensive tasks.
 You can find the syntax reference in its Help menu.
