@@ -1,0 +1,38 @@
+{
+    "name": "cg1-demo",
+    "version": "1.0.0",
+    "description": "LMU Munich Computer Graphics Tutorial Demo",
+    "main": "src/main.ts",
+    "scripts": {
+        "start": "npx webpack serve",
+        "build": "npx webpack --env production",
+        "lint": "npx gts lint",
+        "clean": "npx gts clean",
+        "compile": "npx tsc",
+        "fix": "npx gts fix",
+        "pretest": "npm run compile",
+        "posttest": "npm run lint"
+    },
+    "repository": {
+        "type": "git",
+        "url": "github.com/mimuc/cg1-ss21"
+    },
+    "keywords": [
+        "Computer Graphics"
+    ],
+    "author": "Changkun Ou <research@changkun.de>",
+    "license": "GPL-3.0+",
+    "devDependencies": {
+        "@types/node": "^14.11.2",
+        "gts": "^3.1.0",
+        "html-webpack-plugin": "^5.3.1",
+        "javascript-obfuscator": "^2.11.0",
+        "ts-loader": "^8.1.0",
+        "ts-node": "^9.1.1",
+        "typescript": "^4.2.3",
+        "webpack": "^5.30.0",
+        "webpack-cli": "^4.6.0",
+        "webpack-dev-server": "^3.11.2",
+        "webpack-obfuscator": "^3.3.0"
+    }
+}

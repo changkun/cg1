@@ -1,0 +1,10 @@
+{
+    "extends": "./node_modules/gts/",
+    "overrides": [{
+        "files": ["webpack.config.js", "test/**/*.js"],
+        "rules": {
+            "node/no-unpublished-require": "off"
+        }
+    }]
+}
+  
