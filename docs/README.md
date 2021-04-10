@@ -2,4 +2,4 @@ This folder contains the live demos of tutorial [demos](../demo). Contents are a
 
 ## License
 
-Copyright &copy; 2021 GNU GPLv3. Created by [Changkun Ou](https://changkun.de), Florian Lang, and [Andreas Butz](https://butz.org)
+Copyright &copy; 2021 GNU GPLv3. Created by [Changkun Ou](https://changkun.de)

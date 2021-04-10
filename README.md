@@ -29,9 +29,9 @@ Released on [LMU Moodle](https://moodle.lmu.de/course/view.php?id=13999).
 The following table shows the syllabus of the tutorials:
 
 | # | Date | Slides | Demo |
-|:-:|:----:|:-------|:-----|
-|0|  14.04/15.04 | [Organization](https://changkun.de/s/cg1ss21-organize) | TBA |
-|1|  21.04/22.04 | [Introduction](https://changkun.de/s/cg1ss21-intro) | TBA |
+|:-:|:----:|:-------|:-----:|
+|0|  14.04/15.04 | [Organization](https://changkun.de/s/cg1ss21-organize) | - |
+|1|  21.04/22.04 | [Introduction](https://changkun.de/s/cg1ss21-intro) | ![](./docs/01-intro/teaser.png) [Setup](https://mimuc.github.io/cg1-ss21/01-intro/1-setup/), [Basic](https://mimuc.github.io/cg1-ss21/01-intro/2-basic/) |
 |2|  28.04/29.04 | [Transformations](https://changkun.de/s/cg1ss21-transform) | TBA | 
 |3|  05.05/06.05 | [Geometry](https://changkun.de/s/cg1ss21-geometry) | TBA |
 |4|  12.05/13.05 | [Camera](https://changkun.de/s/cg1ss21-camera) | TBA |
@@ -65,4 +65,4 @@ It is welcome to send a [pull request](https://github.com/mimuc/cg1-ss21/pulls) 
 
 ## License
 
-Copyright &copy; 2021 GNU GPLv3. Created by [Changkun Ou](https://changkun.de), Florian Lang, and [Andreas Butz](https://butz.org)
+Copyright &copy; 2021 GNU GPLv3. Created by [Changkun Ou](https://changkun.de), Florian Lang, and [Andreas Butz](http://butz.org)
