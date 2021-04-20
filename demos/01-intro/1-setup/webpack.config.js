@@ -18,7 +18,6 @@ module.exports = env => {
       host: 'localhost',
       open: true,
     },
-    watch: true,
     entry: './src/main.ts',
     module: {
       rules: [
