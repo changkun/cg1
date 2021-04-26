@@ -42,9 +42,6 @@ class BezierCurve extends Renderer {
       t: 0.5,
     };
     this.gui = new GUI();
-    this.gui
-      .add({export: () => this.exportScreenshot()}, 'export')
-      .name('screenshot');
     this.gui.add(this.menuParams, 'samples', 1, 100, 1).onChange(() => {
       this.drawCurve();
     });
@@ -96,16 +93,6 @@ class BezierCurve extends Renderer {
 
     this.drawCurve();
     this.visualizeDeCasteljauPoint();
-  }
-  exportScreenshot() {
-    const url = this.renderer.domElement.toDataURL('image/png', 'export');
-    const e = document.createElement('a');
-    e.setAttribute('href', url);
-    e.style.display = 'none';
-    e.setAttribute('download', 'export.png');
-    document.body.appendChild(e);
-    e.click();
-    document.body.removeChild(e);
   }
   /**
    * drawCurve draws a bezier curve based on sampling.
