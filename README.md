@@ -34,7 +34,7 @@ The following table shows the syllabus of the tutorials:
 |1|  21.04/22.04 | [Introduction](https://changkun.de/s/cg1ss21-intro) | ![](./docs/01-intro/teaser.png) [Setup](https://mimuc.github.io/cg1-ss21/01-intro/1-setup/), [Basic](https://mimuc.github.io/cg1-ss21/01-intro/2-basic/) |
 |2|  28.04/29.04 | [Transformations](https://changkun.de/s/cg1ss21-transform) | ![](./docs/02-transform/teaser.png) [Tinman](https://mimuc.github.io/cg1-ss21/02-transform/1-wichtelsolo)| 
 |3|  05.05/06.05 | [Geometry](https://changkun.de/s/cg1ss21-geometry) | ![](./docs/03-geometry/teaser.png) [Bezier](https://mimuc.github.io/cg1-ss21/03-geometry/1-bezier/), [BufferGeometry](https://mimuc.github.io/cg1-ss21/03-geometry/2-buffers/), [Mesh Sampling](https://mimuc.github.io/cg1-ss21/03-geometry/3-sampling/) |
-|4|  12.05/13.05 | [Camera](https://changkun.de/s/cg1ss21-camera) | [Dolly Zoom](https://mimuc.github.io/cg1-ss21/04-camera/3-dolly/) |
+|4|  12.05/13.05 | [Camera](https://changkun.de/s/cg1ss21-camera) | [Scene Graph](https://mimuc.github.io/cg1-ss21/04-camera/1-models/) [Dolly Zoom](https://mimuc.github.io/cg1-ss21/04-camera/3-dolly/) |
 |5|  19.05/20.05 | [Rasterization-1](https://changkun.de/s/cg1ss21-raster1) | TBA |
 |6|  02.06/03.06 | [Rasterization-2](https://changkun.de/s/cg1ss21-raster2) | TBA |
 |7|  09.06/10.06 | [Texture](https://changkun.de/s/cg1ss21-texture) | TBA |
