@@ -35,7 +35,7 @@ The following table shows the syllabus of the tutorials:
 |2|  28.04/29.04 | [Transformations](https://changkun.de/s/cg1ss21-transform) | ![](./docs/02-transform/teaser.png) [Tinman](https://mimuc.github.io/cg1-ss21/02-transform/1-wichtelsolo)|
 |3|  05.05/06.05 | [Geometry](https://changkun.de/s/cg1ss21-geometry) | ![](./docs/03-geometry/teaser.png) [Bezier](https://mimuc.github.io/cg1-ss21/03-geometry/1-bezier/), [BufferGeometry](https://mimuc.github.io/cg1-ss21/03-geometry/2-buffers/), [Mesh Sampling](https://mimuc.github.io/cg1-ss21/03-geometry/3-sampling/) |
 |4|  12.05/13.05 | [Camera](https://changkun.de/s/cg1ss21-camera) | ![](./docs/04-camera/teaser.png) [Scene Graph](https://mimuc.github.io/cg1-ss21/04-camera/1-models/), [Cameras](https://mimuc.github.io/cg1-ss21/04-camera/2-cameras/), [Dolly Zoom](https://mimuc.github.io/cg1-ss21/04-camera/3-dolly/) |
-|5|  19.05/20.05 | [Rasterization-1](https://changkun.de/s/cg1ss21-raster1) | TBA |
+|5|  19.05/20.05 | [Rasterization-1](https://changkun.de/s/cg1ss21-raster1) | ![](./docs/05-raster1/teaser.png) [Z-fighting](https://mimuc.github.io/cg1-ss21/05-raster1/1-zfighting/), [Drawing](https://mimuc.github.io/cg1-ss21/05-raster1/2-bresenham/) |
 |6|  02.06/03.06 | [Rasterization-2](https://changkun.de/s/cg1ss21-raster2) | TBA |
 |7|  09.06/10.06 | [Texture](https://changkun.de/s/cg1ss21-texture) | TBA |
 |8|  16.06/17.06 | [Shadow](https://changkun.de/s/cg1ss21-shadow) | TBA |
