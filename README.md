@@ -32,11 +32,8 @@ Released on [LMU Moodle](https://moodle.lmu.de/course/view.php?id=13999).
 |5|  18.05.2021 | [Rasterization](https://moodle.lmu.de/mod/lesson/view.php?id=793902) |
 |6|  01.06.2021 | [Light, Materials, Appearance](https://moodle.lmu.de/mod/lesson/view.php?id=812253) |
 |7|  08.06.2021 | [Shading and Rendering](https://moodle.lmu.de/mod/lesson/view.php?id=817646) |
-|8|  15.06.2021 | Animation |
-|9|  22.06.2021 | Guest Lecture |
-|10| 29.06.2021 | Interaction in 3D |
-|11| 06.07.2021 | Volume Rendering & Scalar Field Visualization |
-|12| 13.07.2021 | Final QA |
+|8|  15.06.2021 | [Animation](https://moodle.lmu.de/mod/lesson/view.php?id=821367) |
+|9|  29.06.2021 | [Interaction in 3D](https://moodle.lmu.de/mod/lesson/view.php?id=831621) |
 
 ## Tutorial Materials
 
@@ -69,11 +66,11 @@ Released on [Uni2Work](https://uni2work.ifi.lmu.de/course/S21/IfI/CG1/sheet).
 
 ## Discussion
 
-General discussions regarding the tutorial are held on [LMU Moodle](https://moodle.lmu.de/mod/forum/view.php?id=678873). But it is welcome for you to fire an [issue](https://github.com/mimuc/cg1-ss21/issues/new) directly on GitHub.
+General discussions regarding the tutorial are held on [LMU Moodle](https://moodle.lmu.de/mod/forum/view.php?id=678873). But it is welcome for you to fire an [issue](https://github.com/mimuc/cg1/ss21/issues/new) directly on GitHub.
 
 ## Contribution
 
-It is welcome to send a [pull request](https://github.com/mimuc/cg1-ss21/pulls) if you found the provided materials can be improved.
+It is welcome to send a [pull request](https://github.com/mimuc/cg1/ss21/pulls) if you found the provided materials can be improved.
 
 ## License
 
