@@ -1,4 +1,4 @@
-<img src="./docs/teaser.png" alt="Image Credit: V. Pues" height="100" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="./teaser.png" alt="Image Credit: V. Pues" height="100" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 # Computer Graphics ![](https://changkun.de/urlstat?mode=github&repo=mimuc/cg1)
 
@@ -45,14 +45,14 @@ The following table shows the syllabus of the tutorials:
 | # | Date | Slides | Demo |
 |:-:|:----:|:-------|:-----:|
 |0|  14.04/15.04 | [Organization](https://changkun.de/s/cg1ss21-organize) | - |
-|1|  21.04/22.04 | [Introduction](https://changkun.de/s/cg1ss21-intro) | ![](./docs/01-intro/teaser.png) [Setup](https://mimuc.github.io/cg1-ss21/01-intro/1-setup/), [Basic](https://mimuc.github.io/cg1-ss21/01-intro/2-basic/) |
-|2|  28.04/29.04 | [Transformations](https://changkun.de/s/cg1ss21-transform) | ![](./docs/02-transform/teaser.png) [Tinman](https://mimuc.github.io/cg1-ss21/02-transform/1-wichtelsolo)|
-|3|  05.05/06.05 | [Geometry](https://changkun.de/s/cg1ss21-geometry) | ![](./docs/03-geometry/teaser.png) [Bezier](https://mimuc.github.io/cg1-ss21/03-geometry/1-bezier/), [BufferGeometry](https://mimuc.github.io/cg1-ss21/03-geometry/2-buffers/), [Mesh Sampling](https://mimuc.github.io/cg1-ss21/03-geometry/3-sampling/) |
-|4|  12.05/13.05 | [Camera](https://changkun.de/s/cg1ss21-camera) | ![](./docs/04-camera/teaser.png) [Scene Graph](https://mimuc.github.io/cg1-ss21/04-camera/1-models/), [Cameras](https://mimuc.github.io/cg1-ss21/04-camera/2-cameras/), [Dolly Zoom](https://mimuc.github.io/cg1-ss21/04-camera/3-dolly/) |
-|5|  19.05/20.05 | [Rasterization-1](https://changkun.de/s/cg1ss21-raster1) | ![](./docs/05-raster1/teaser.png) [Z-fighting](https://mimuc.github.io/cg1-ss21/05-raster1/1-zfighting/), [Drawing](https://mimuc.github.io/cg1-ss21/05-raster1/2-bresenham/) |
-|6|  02.06/03.06 | [Rasterization-2](https://changkun.de/s/cg1ss21-raster2) | ![](./docs/06-raster2/teaser.png) [Drawing](https://mimuc.github.io/cg1-ss21/06-raster2/1-draw/), [GLSL](https://mimuc.github.io/cg1-ss21/06-raster2/2-glsl/), [Shaders](https://mimuc.github.io/cg1-ss21/06-raster2/3-shaders/) |
-|7|  09.06/10.06 | [Texture](https://changkun.de/s/cg1ss21-texture) | ![](./docs/07-texture/teaser.png) |
-|8|  16.06/17.06 | [Shading](https://changkun.de/s/cg1ss21-shade) | ![](./docs/08-shade/teaser.png) |
+|1|  21.04/22.04 | [Introduction](https://changkun.de/s/cg1ss21-intro) | ![](./01-intro/teaser.png) [Setup](https://mimuc.github.io/cg1/ss21/01-intro/1-setup/), [Basic](https://mimuc.github.io/cg1/ss21/01-intro/2-basic/) |
+|2|  28.04/29.04 | [Transformations](https://changkun.de/s/cg1ss21-transform) | ![](./02-transform/teaser.png) [Tinman](https://mimuc.github.io/cg1/ss21/02-transform/1-wichtelsolo)|
+|3|  05.05/06.05 | [Geometry](https://changkun.de/s/cg1ss21-geometry) | ![](./03-geometry/teaser.png) [Bezier](https://mimuc.github.io/cg1/ss21/03-geometry/1-bezier/), [BufferGeometry](https://mimuc.github.io/cg1/ss21/03-geometry/2-buffers/), [Mesh Sampling](https://mimuc.github.io/cg1/ss21/03-geometry/3-sampling/) |
+|4|  12.05/13.05 | [Camera](https://changkun.de/s/cg1ss21-camera) | ![](./04-camera/teaser.png) [Scene Graph](https://mimuc.github.io/cg1/ss21/04-camera/1-models/), [Cameras](https://mimuc.github.io/cg1/ss21/04-camera/2-cameras/), [Dolly Zoom](https://mimuc.github.io/cg1/ss21/04-camera/3-dolly/) |
+|5|  19.05/20.05 | [Rasterization-1](https://changkun.de/s/cg1ss21-raster1) | ![](./05-raster1/teaser.png) [Z-fighting](https://mimuc.github.io/cg1/ss21/05-raster1/1-zfighting/), [Drawing](https://mimuc.github.io/cg1/ss21/05-raster1/2-bresenham/) |
+|6|  02.06/03.06 | [Rasterization-2](https://changkun.de/s/cg1ss21-raster2) | ![](./06-raster2/teaser.png) [Drawing](https://mimuc.github.io/cg1/ss21/06-raster2/1-draw/), [GLSL](https://mimuc.github.io/cg1/ss21/06-raster2/2-glsl/), [Shaders](https://mimuc.github.io/cg1/ss21/06-raster2/3-shaders/) |
+|7|  09.06/10.06 | [Texture](https://changkun.de/s/cg1ss21-texture) | ![](./07-texture/teaser.png) |
+|8|  16.06/17.06 | [Shading](https://changkun.de/s/cg1ss21-shade) | ![](./08-shade/teaser.png) |
 
 ### Assignments
 
