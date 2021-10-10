@@ -58,7 +58,7 @@ For the current and future students:
 
 ## Contribution
 
-It is welcome to send a [pull request](https://github.com/mimuc/cg1-ss20/pulls) if you found the code skeleton can be improved.
+It is welcome to send a [pull request](https://github.com/mimuc/cg1/pulls) if you found the code skeleton can be improved.
 
 ## License
 

@@ -6,7 +6,7 @@
     "start": "webpack-dev-server --host localhost --open",
     "build": "webpack --env.prod"
   },
-  "repository": "mimuc/cg1-ss20",
+  "repository": "mimuc/cg1",
   "author": "LMU Munich MIMUC CG1 Team",
   "license": "GPL-3.0+",
   "dependencies": {
