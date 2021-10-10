@@ -66,11 +66,11 @@ Released on [Uni2Work](https://uni2work.ifi.lmu.de/course/S21/IfI/CG1/sheet).
 
 ## Discussion
 
-General discussions regarding the tutorial are held on [LMU Moodle](https://moodle.lmu.de/mod/forum/view.php?id=678873). But it is welcome for you to fire an [issue](https://github.com/mimuc/cg1/ss21/issues/new) directly on GitHub.
+General discussions regarding the tutorial are held on [LMU Moodle](https://moodle.lmu.de/mod/forum/view.php?id=678873). But it is welcome for you to fire an [issue](https://github.com/mimuc/cg1/issues/new) directly on GitHub.
 
 ## Contribution
 
-It is welcome to send a [pull request](https://github.com/mimuc/cg1/ss21/pulls) if you found the provided materials can be improved.
+It is welcome to send a [pull request](https://github.com/mimuc/cg1/pulls) if you found the provided materials can be improved.
 
 ## License
 
